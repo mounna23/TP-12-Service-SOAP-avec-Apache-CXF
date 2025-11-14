@@ -4,7 +4,9 @@ Dans ce lab, on conçoit un service SOAP en Java avec Apache CXF, on l’expose 
 on génère/consomme un client, puis on ajoute une première couche de sécurité WS-Security (UsernameToken). Le flux suit un chemin “code-first → WSDL → test → sécurité”.
 
 ## Pré-requis
-Java 17 (ou 11+), Maven 3.8+, un IDE Java, SoapUI.
+- Java 17 (ou 11+)
+-  Maven 3.8+
+-  un IDE Java, SoapUI.
 
 ## Tester le service avec SoapUI
 
